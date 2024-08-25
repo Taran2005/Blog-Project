@@ -22,8 +22,8 @@ This project features a simple Blog API with both a backend API and a frontend i
 1. **Clone the Repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Taran2005/Blog-Project.git
+    cd Blog-Project
     ```
 
 2. **Install Dependencies:**
